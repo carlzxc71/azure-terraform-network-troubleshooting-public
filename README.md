@@ -24,6 +24,8 @@
 - Commands for deallocating both FW and virtual machines are provided further down in this guide.
 - Whilst I provide some helpful tips for saving on money/credits when running this lab I do not take any responsibility for the costs you incur running this lab. If you forget to deallocate resources or do other things with the lab then was intended; its on you :) 
 
+I have also done my best to ensure that you should be able to deploy everything by running `terraform apply` once with a bunch of `retry` blocks and whatnot. However, if the deployment fails - first step should be to just run `terraform apply` once more. 
+
 ## Run
 
 Prereqs:
