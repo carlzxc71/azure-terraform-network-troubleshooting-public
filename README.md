@@ -1,3 +1,6 @@
+## Link to video
+[3 Advanced Ways to Troubleshoot Azure Networking](https://youtu.be/0UWIVDKUdYo)
+
 ## What this repo deploys
 
 - Resource Group
